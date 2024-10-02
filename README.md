@@ -29,13 +29,6 @@ I'm a Bioinformatician with experience in microbial ecology and epedimiology. I 
 ### 2019
 - [Galleria mellonella larvae exhibit a weight-dependent lethal median dose when infected with methicillin-resistant Staphylococcus aureus](https://doi.org/10.1093/femspd/ftab003) (DOI: 10.1093/femspd/ftab003)
 
-
 ## Additional Resources 💡:
-- [How to create a GitHub Profile README](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
-- [Beautify your GitHub Profile README with badges, shields, stats and more](https://github.com/rzashakeri/beautify-github-profile)
-- [Explore example GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/)
-- [Create your GitHub Profile README automagically ✨ with this awesome app](https://www.profileme.dev/)
-- [Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- [Profile README Generator](https://github.com/maurodesouza/profile-readme-generator)
-- [Explore more Profile README Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-- [Turn your GitHub Profile into a Resume](https://resume.github.io/)
+- [Tutorial: General workflow for the analysis of microbial (meta)genomic data](https://github.com/pjhesbest/microbial_meta-genomics_introduction)
+- [Anatomy of a basic BASH script](https://github.com/pjhesbest/anatomy-of-a-bash)
