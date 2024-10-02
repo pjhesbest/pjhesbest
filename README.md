@@ -6,6 +6,8 @@
 
 I'm a Bioinformatician with experience in microbial ecology and epedimiology. I enjoy building analysis workflows that are accesible to people with no coding background, and making resources for collagues to learn how to code!
 
+My background is in traditional 'wet-lab' microbiology, and it was during my Ph.D studies I began to dip my toes into coding and bioinformatics to be able to conduct the research I had wanted to do for years which was on the subject of microbiomes. Since my PhD I have worked on a range of subjects, including bacterial and viral ecology (DNA and RNA viruses) in environmental, agricultural and clinical settings.
+
 - 🌱 Currently learning: **NextFlow**
 - 🔭 Working on: **SARS-CoV-2 and *Mycobacterium tuberculosis* surveilance, rapid diagnostics with Oxford Nanopore sequencing**
 - 🌍 Languages: **BASH, R, Python, NextFlow**
@@ -29,10 +31,18 @@ I'm a Bioinformatician with experience in microbial ecology and epedimiology. I 
 - [Galleria mellonella larvae exhibit a weight-dependent lethal median dose when infected with methicillin-resistant Staphylococcus aureus (*FEMS Pathonge and Disease*)](https://doi.org/10.1093/femspd/ftab003)
 
 ## Additional Resources 💡:
-
 ### Tutorials
 - [General workflow for the analysis of microbial (meta)genomic data](https://github.com/pjhesbest/microbial_meta-genomics_introduction)
 - [Anatomy of a basic BASH script](https://github.com/pjhesbest/anatomy-of-a-bash) (WIP)
 ### General audience articles
 - [Deep sea sponges yield new bacterial strains that may battle pathogens](https://www.the-microbiologist.com/news/deep-sea-sponges-yield-new-bacterial-strains-that-may-battle-pathogens/720.article)
 - [#FEMSmicroBlog: Searching for antibiotics in the deep sea](https://fems-microbiology.org/femsmicroblog-searching-for-antibiotics-in-the-deep-sea/)
+
+## Data-availability :eyes::
+Data anf script utilised in the analysis and writing of my first-author publications, or any publication where it was my responcibility to make code and data available, can be found in the following repositories:
+- FigShare | [*in review* - Survey of RNA Viromes in US Honey Bees and Varroa Mites Reveals Prevalence of Recombinant DWV genomes](https://figshare.com/account/home#/projects/205180)
+- GitHub | [Sacbrood viruses and select Lake Sinai virus variants dominated Apis mellifera colonies symptomatic for European foulbrood]()
+  - To be uploaded to [FigShare](https://figshare.com/account/items/26249036/edit) to reclaim storage on my personal github account :sweat_smile:
+- FigShare | [A semi-automated and high-throughput approach for the detection of honey bee viruses in bee samples](https://doi.org/10.1371/journal.pone.0297623)
+- FigShare | 
+- FigShare | 
