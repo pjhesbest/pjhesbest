@@ -43,6 +43,5 @@ Data anf script utilised in the analysis and writing of my first-author publicat
 - FigShare | [*in review* - Survey of RNA Viromes in US Honey Bees and Varroa Mites Reveals Prevalence of Recombinant DWV genomes](https://figshare.com/account/home#/projects/205180)
 - GitHub | [Sacbrood viruses and select Lake Sinai virus variants dominated Apis mellifera colonies symptomatic for European foulbrood]()
   - To be uploaded to [FigShare](https://figshare.com/account/items/26249036/edit) to reclaim storage on my personal github account :sweat_smile:
-- FigShare | [A semi-automated and high-throughput approach for the detection of honey bee viruses in bee samples](https://doi.org/10.1371/journal.pone.0297623)
-- FigShare | 
-- FigShare | 
+- FigShare | [A semi-automated and high-throughput approach for the detection of honey bee viruses in bee samples](https://figshare.com/account/home#/projects/171699))
+- FigShare | [Viruses of sulfur oxidizing phototrophs encode genes for pigment, carbon, and sulfur metabolisms](https://figshare.com/account/home#/projects/162820)
