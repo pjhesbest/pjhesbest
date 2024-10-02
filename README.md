@@ -8,6 +8,7 @@ I'm a Bioinformatician with experience in microbial ecology and epedimiology. I 
 
 My background is in traditional 'wet-lab' microbiology, and it was during my Ph.D studies I began to dip my toes into coding and bioinformatics to be able to conduct the research I had wanted to do for years which was on the subject of microbiomes. Since my PhD I have worked on a range of subjects, including bacterial and viral ecology (DNA and RNA viruses) in environmental, agricultural and clinical settings.
 
+- Currently working at: Diagnosis and Genomic Epidemiology of Pathogens (DxEpiPath), IGTP, Barcelona, Spain :es:
 - 🌱 Currently learning: **NextFlow**
 - 🔭 Working on: **SARS-CoV-2 and *Mycobacterium tuberculosis* surveilance, rapid diagnostics with Oxford Nanopore sequencing**
 - 🌍 Languages: **BASH, R, Python, NextFlow**
