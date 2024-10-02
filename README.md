@@ -11,7 +11,7 @@ I'm a Bioinformatician with experience in microbial ecology and epedimiology. I 
 - 🌍 Languages: **BASH, R, Python, NextFlow**
 - 📫 How to reach me: **phesketh@igtp.cat**
 
-## Publications 🧠
+## Publications :page_facing_up:
 
 ### Pre-prints
 - [Evolutionary and biological mechanisms underpinning chitin degradation in aquatic fungi](https://doi.org/10.1101/2024.02.10.579206) (DOI: 10.1101/2024.02.10.579206)
