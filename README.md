@@ -4,9 +4,7 @@
 
 ## About Me 🚀
 
-I'm a Bioinformatician with experience in microbial ecology and epedimiology. I enjoy building analysis workflows that are accesible to people with no coding background, and making resources for collagues to learn how to code!
-
-My background is in traditional 'wet-lab' microbiology, and it was during my Ph.D studies I began to dip my toes into coding and bioinformatics to be able to conduct the research I had wanted to do for years which was on the subject of microbiomes. I’ve worked as a Postdoctoral Research Associate on diverse projects (in the USA and UK), investigating bacterial and viral ecology (both DNA and RNA viruses) in environmental and agricultural. Currently, I work as a Bioinformatician, where I focus on developing code and analyzing data for pathogen surveillance and diagnostics.
+I'm a microbiologist/bioinformatician with experience in microbial ecology and epedimiology. I enjoy building analysis workflows that are accesible to people with no coding background, and making resources for collagues to learn how to code! I’ve worked as a Postdoctoral Research Associate on diverse projects (in the USA and UK), investigating bacterial and viral ecology (both DNA and RNA viruses) in environmental and agricultural. Currently, I work as a bioinformatician, where I focus on developing code and analyzing data for pathogen surveillance and diagnostics.
 
 - :computer: Employment: **Bioinformatician in the Diagnosis and Genomic Epidemiology of Pathogens (DxEpiPath) group, IGTP** :es:
 - 🌱 Currently learning: **NextFlow**
