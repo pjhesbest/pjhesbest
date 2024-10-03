@@ -15,7 +15,7 @@ I'm a microbiologist/bioinformatician with experience in microbial ecology and e
 ## Additional Resources 💡:
 ### Tutorial
 - [General workflow for the analysis of microbial (meta)genomic data](https://github.com/pjhesbest/microbial_meta-genomics_introduction)
-- [Anatomy of a basic BASH script](https://github.com/pjhesbest/anatomy-of-a-bash) (WIP)
+- [Anatomy of a BASH](https://github.com/pjhesbest/anatomy-of-a-bash/wiki) (WIP)
 ### Learning
 - [My notes, scripts and experience of learning NextFlow](https://github.com/pjhesbest/learning-nextflow) (WIP)
 ### General audience articles
