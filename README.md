@@ -13,9 +13,16 @@ My background is in traditional 'wet-lab' microbiology, and it was during my Ph.
 - 🔭 Working on: **SARS-CoV-2 and *Mycobacterium tuberculosis* surveilance, rapid diagnostics with Oxford Nanopore sequencing**
 - 🌍 Languages: **BASH, R, Python, NextFlow**
 - 📫 How to reach me: **phesketh@igtp.cat**
-
+********
+## Additional Resources 💡:
+### Tutorial
+- [General workflow for the analysis of microbial (meta)genomic data](https://github.com/pjhesbest/microbial_meta-genomics_introduction)
+- [Anatomy of a basic BASH script](https://github.com/pjhesbest/anatomy-of-a-bash) (WIP)
+### General audience articles
+- [Deep sea sponges yield new bacterial strains that may battle pathogens](https://www.the-microbiologist.com/news/deep-sea-sponges-yield-new-bacterial-strains-that-may-battle-pathogens/720.article)
+- [#FEMSmicroBlog: Searching for antibiotics in the deep sea](https://fems-microbiology.org/femsmicroblog-searching-for-antibiotics-in-the-deep-sea/)
+********
 ## Publications :page_facing_up:
-
 ### Pre-prints
 - [Evolutionary and biological mechanisms underpinning chitin degradation in aquatic fungi](https://doi.org/10.1101/2024.02.10.579206) (DOI: 10.1101/2024.02.10.579206)
 
@@ -30,15 +37,7 @@ My background is in traditional 'wet-lab' microbiology, and it was during my Ph.
 - [Impact of growth media and pressure on the diversity and antimicrobial activity of isolates from two species of hexactinellid sponge](https://doi.org/10.1099/mic.0.001123)
 ### 2019
 - [Galleria mellonella larvae exhibit a weight-dependent lethal median dose when infected with methicillin-resistant Staphylococcus aureus (*FEMS Pathonge and Disease*)](https://doi.org/10.1093/femspd/ftab003)
-
-## Additional Resources 💡:
-### Tutorials
-- [General workflow for the analysis of microbial (meta)genomic data](https://github.com/pjhesbest/microbial_meta-genomics_introduction)
-- [Anatomy of a basic BASH script](https://github.com/pjhesbest/anatomy-of-a-bash) (WIP)
-### General audience articles
-- [Deep sea sponges yield new bacterial strains that may battle pathogens](https://www.the-microbiologist.com/news/deep-sea-sponges-yield-new-bacterial-strains-that-may-battle-pathogens/720.article)
-- [#FEMSmicroBlog: Searching for antibiotics in the deep sea](https://fems-microbiology.org/femsmicroblog-searching-for-antibiotics-in-the-deep-sea/)
-
+********
 ## Data-availability :eyes::
 Data anf script utilised in the analysis and writing of my first-author publications, or any publication where it was my responcibility to make code and data available, can be found in the following repositories:
 - FigShare | [*in review* - Survey of RNA Viromes in US Honey Bees and Varroa Mites Reveals Prevalence of Recombinant DWV genomes](https://figshare.com/account/home#/projects/205180)
