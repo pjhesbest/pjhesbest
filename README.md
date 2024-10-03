@@ -16,6 +16,8 @@ I'm a microbiologist/bioinformatician with experience in microbial ecology and e
 ### Tutorial
 - [General workflow for the analysis of microbial (meta)genomic data](https://github.com/pjhesbest/microbial_meta-genomics_introduction)
 - [Anatomy of a basic BASH script](https://github.com/pjhesbest/anatomy-of-a-bash) (WIP)
+### Learning
+- [My notes, scripts and experience of learning NextFlow](https://github.com/pjhesbest/learning-nextflow) (WIP)
 ### General audience articles
 - [Deep sea sponges yield new bacterial strains that may battle pathogens](https://www.the-microbiologist.com/news/deep-sea-sponges-yield-new-bacterial-strains-that-may-battle-pathogens/720.article)
 - [#FEMSmicroBlog: Searching for antibiotics in the deep sea](https://fems-microbiology.org/femsmicroblog-searching-for-antibiotics-in-the-deep-sea/)
