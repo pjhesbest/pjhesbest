@@ -28,8 +28,8 @@ I'm a microbiologist/bioinformatician with experience in microbial ecology and e
 - [Evolutionary and biological mechanisms underpinning chitin degradation in aquatic fungi](https://doi.org/10.1101/2024.02.10.579206)
 - [Productive viral infections in oligotrophic marine waters](https://doi.org/10.21203/rs.3.rs-3040647/v1)
 ### 2024
-- [Sacbrood viruses and select Lake Sinai virus variants dominated Apis mellifera colonies symptomatic for European foulbrood](https://doi.org/10.1128/spectrum.00656-24)
-- [Nikulin, **Hesketh-Best**, *et al*, (2024) *'A semi-automated and high-throughput approach for the detection of honey bee viruses in bee samples'*. PLoS One](https://doi.org/10.1371/journal.pone.0297623)
+- [Sacbrood viruses and select Lake Sinai virus variants dominated *Apis mellifera* colonies symptomatic for European foulbrood](https://doi.org/10.1128/spectrum.00656-24)
+- [A semi-automated and high-throughput approach for the detection of honey bee viruses in bee samples](https://doi.org/10.1371/journal.pone.0297623)
 - [Globally distributed bacteriophage genomes reveal mechanisms of tripartite phage-bacteria-coral interactions](https://doi.org/10.1101/2024.03.11.584349)
 - [Inducible prophages modulate symbiotic phenotypes in Sargassum-associated bacteria](https://doi.org/10.21203/rs.3.rs-3867801/v1)
 ### 2023
@@ -38,7 +38,7 @@ I'm a microbiologist/bioinformatician with experience in microbial ecology and e
 ### 2020
 - [Impact of growth media and pressure on the diversity and antimicrobial activity of isolates from two species of hexactinellid sponge](https://doi.org/10.1099/mic.0.001123)
 ### 2019
-- [Galleria mellonella larvae exhibit a weight-dependent lethal median dose when infected with methicillin-resistant Staphylococcus aureus (*FEMS Pathonge and Disease*)](https://doi.org/10.1093/femspd/ftab003)
+- [*Galleria mellonella* larvae exhibit a weight-dependent lethal median dose when infected with methicillin-resistant *Staphylococcus aureus*](https://doi.org/10.1093/femspd/ftab003)
 
 ********
 ## Data-availability :eyes::
