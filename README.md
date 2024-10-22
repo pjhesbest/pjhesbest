@@ -21,6 +21,7 @@ I'm a microbiologist/bioinformatician with experience in microbial ecology and e
 ### General audience articles
 - [Deep sea sponges yield new bacterial strains that may battle pathogens](https://www.the-microbiologist.com/news/deep-sea-sponges-yield-new-bacterial-strains-that-may-battle-pathogens/720.article)
 - [#FEMSmicroBlog: Searching for antibiotics in the deep sea](https://fems-microbiology.org/femsmicroblog-searching-for-antibiotics-in-the-deep-sea/)
+- [Rule-breaking anoxic bacteria infected with viruses](https://www.the-microbiologist.com/news/rule-breaking-anoxic-bacteria-infected-with-viruses/1216.article)
 ********
 ## Publications :page_facing_up:
 ### Pre-prints
