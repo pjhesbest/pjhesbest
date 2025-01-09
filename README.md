@@ -26,8 +26,8 @@ I'm a microbiologist/bioinformatician with experience in microbial ecology and e
 ## Publications :page_facing_up:
 ### Pre-prints
 - [Evolutionary and biological mechanisms underpinning chitin degradation in aquatic fungi](https://doi.org/10.1101/2024.02.10.579206)
-- [Productive viral infections in oligotrophic marine waters](https://doi.org/10.21203/rs.3.rs-3040647/v1)
 ### 2024
+- [Productive viral infections in oligotrophic marine waters](https://doi.org/10.21203/rs.3.rs-3040647/v1)
 - [Sacbrood viruses and select Lake Sinai virus variants dominated *Apis mellifera* colonies symptomatic for European foulbrood](https://doi.org/10.1128/spectrum.00656-24)
 - [A semi-automated and high-throughput approach for the detection of honey bee viruses in bee samples](https://doi.org/10.1371/journal.pone.0297623)
 - [Globally distributed bacteriophage genomes reveal mechanisms of tripartite phage-bacteria-coral interactions](https://doi.org/10.1101/2024.03.11.584349)
@@ -43,7 +43,7 @@ I'm a microbiologist/bioinformatician with experience in microbial ecology and e
 ********
 ## Data-availability :eyes::
 Data anf script utilised in the analysis and writing of my first-author publications, or any publication where it was my responcibility to make code and data available, can be found in the following repositories:
-- FigShare | [*in review* - Survey of RNA Viromes in US Honey Bees and Varroa Mites Reveals Prevalence of Recombinant DWV genomes](https://figshare.com/account/home#/projects/205180)
+- FigShare | [Survey of RNA Viromes in US Honey Bees and Varroa Mites Reveals Prevalence of Recombinant DWV genomes](https://figshare.com/account/home#/projects/205180)
 - GitHub | [Sacbrood viruses and select Lake Sinai virus variants dominated Apis mellifera colonies symptomatic for European foulbrood]()
   - To be uploaded to [FigShare](https://figshare.com/account/items/26249036/edit) to reclaim storage on my personal github account :sweat_smile:
 - FigShare | [A semi-automated and high-throughput approach for the detection of honey bee viruses in bee samples](https://figshare.com/account/home#/projects/171699))
