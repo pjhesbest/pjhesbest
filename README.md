@@ -44,8 +44,8 @@ I'm a microbiologist/bioinformatician with experience in microbial ecology and e
 ********
 ## Data-availability :eyes::
 Data anf script utilised in the analysis and writing of my first-author publications, or any publication where it was my responcibility to make code and data available, can be found in the following repositories:
-- FigShare | [Survey of RNA Viromes in US Honey Bees and Varroa Mites Reveals Prevalence of Recombinant DWV genomes](https://figshare.com/account/home#/projects/205180)
-- GitHub | [Sacbrood viruses and select Lake Sinai virus variants dominated Apis mellifera colonies symptomatic for European foulbrood]()
+- FigShare | [Dominance of recombinant DWV genomes with changing viral landscapes as revealed in national US honey bee and varroa mite survey](https://figshare.com/account/home#/projects/205180)
+- GitHub   | [Sacbrood viruses and select Lake Sinai virus variants dominated Apis mellifera colonies symptomatic for European foulbrood]()
   - To be uploaded to [FigShare](https://figshare.com/account/items/26249036/edit) to reclaim storage on my personal github account :sweat_smile:
 - FigShare | [A semi-automated and high-throughput approach for the detection of honey bee viruses in bee samples](https://figshare.com/account/home#/projects/171699))
 - FigShare | [Viruses of sulfur oxidizing phototrophs encode genes for pigment, carbon, and sulfur metabolisms](https://figshare.com/account/home#/projects/162820)
