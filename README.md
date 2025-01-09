@@ -7,9 +7,9 @@
 I'm a microbiologist/bioinformatician with experience in microbial ecology and epedimiology. I enjoy building analysis workflows that are accesible to people with no coding background, and making resources for collagues to learn how to code! I’ve worked as a Postdoctoral Research Associate on diverse projects (in the USA and UK), investigating bacterial and viral ecology (both DNA and RNA viruses) in environmental and agricultural. Currently, I work as a bioinformatician, where I focus on developing code and analyzing data for pathogen surveillance and diagnostics.
 
 - :computer: Employment: **Bioinformatician in the Diagnosis and Genomic Epidemiology of Pathogens (DxEpiPath) group, IGTP** :es:
-- 🌱 Currently learning: **NextFlow**
-- 🔭 Working on: **SARS-CoV-2 and *Mycobacterium tuberculosis* surveilance, rapid diagnostics with Oxford Nanopore sequencing**
-- 🌍 Languages: **BASH, R, Python, NextFlow**
+- 🌱 Current project: A **Nextflow** workflow for epidemiological outbreak analysis of *Mycobacterium tuberculosis*
+- 🔭 Broadly working on: **SARS-CoV-2 and *Mycobacterium tuberculosis* surveilance, rapid diagnostics with Oxford Nanopore sequencing**
+- 🌍 Languages: **BASH, R, Python, Nextflow**
 - 📫 How to reach me: **phesketh@igtp.cat**
 ********
 ## Additional Resources 💡:
