@@ -9,7 +9,7 @@ I'm a microbiologist/bioinformatician with experience in microbial ecology and e
 - :computer: Employment: **Bioinformatician in the Diagnosis and Genomic Epidemiology of Pathogens (DxEpiPath) group, IGTP** :es:
 - 🌱 Current project: A **Nextflow** workflow for epidemiological outbreak analysis of *Mycobacterium tuberculosis*
 - 🔭 Broadly working on: **SARS-CoV-2 and *Mycobacterium tuberculosis* surveilance, rapid diagnostics with Oxford Nanopore sequencing**
-- 🌍 Languages: **BASH, R, Python, Nextflow**
+- 🌍 Languages: **BASH, R, Nextflow, Python**
 - 📫 How to reach me: **phesketh@igtp.cat**
 ********
 ## Additional Resources 💡:
