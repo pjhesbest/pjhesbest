@@ -10,7 +10,7 @@ I'm a microbiologist/bioinformatician with experience in microbial ecology and e
 - 🌱 Current project: A **Nextflow** workflow for epidemiological outbreak analysis of *Mycobacterium tuberculosis*
 - 🔭 Broadly working on: **SARS-CoV-2 and *Mycobacterium tuberculosis* surveilance, rapid diagnostics with Oxford Nanopore sequencing**
 - 🌍 Languages: **BASH, R, Nextflow, Python**
-- 📫 How to reach me: **phesketh@igtp.cat**
+- 📫 How to reach me: **[Institutional email](phesketh@igtp.cat)** || [Institutional GitHub](https://github.com/pjhesbest)
 ********
 ## Additional Resources 💡:
 ### Tutorial
