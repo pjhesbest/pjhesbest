@@ -1,5 +1,22 @@
 # Poppy J Hesketh-Best, Ph.D! 👋
 
+***
+
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/pjhesbes.bsky.social) 
+
+# 💻 Tech Stack:
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pjhesbest&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pjhesbest&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pjhesbest&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=pjhesbest&icon=0&color=0)](https://visitcount.itsvg.in)
+
+***
+
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
@@ -11,7 +28,8 @@ I'm a microbiologist/bioinformatician with experience in microbial ecology and e
 - 🔭 Broadly working on: **SARS-CoV-2 and *Mycobacterium tuberculosis* surveilance, rapid diagnostics with Oxford Nanopore sequencing**
 - 🌍 Languages: **BASH, R, Nextflow, Python**
 - 📫 How to reach me: **phesketh@igtp.cat** || **[Institutional GitHub](https://github.com/phesketh-igtp)**
-********
+
+***
 ## Additional Resources 💡:
 ### Tutorial
 - [General workflow for the analysis of microbial (meta)genomic data](https://github.com/pjhesbest/microbial_meta-genomics_introduction)
