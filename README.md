@@ -20,11 +20,9 @@ I'm a microbiologist/bioinformatician with experience in microbial ecology and e
 ![](https://nirzak-streak-stats.vercel.app/?user=pjhesbest&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pjhesbest&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=pjhesbest&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ***
-
 ## Additional Resources 💡:
 ### Tutorial
 - [General workflow for the analysis of microbial (meta)genomic data](https://github.com/pjhesbest/microbial_meta-genomics_introduction)
