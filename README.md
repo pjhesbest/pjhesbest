@@ -25,19 +25,23 @@ I'm a microbiologist/bioinformatician with experience in microbial ecology and e
 
 ***
 ## 💡 Additional Resources:
+
 ### Tutorial
 - [General workflow for the analysis of microbial (meta)genomic data](https://github.com/pjhesbest/microbial_meta-genomics_introduction)
 - [Anatomy of a BASH](https://github.com/pjhesbest/anatomy-of-a-bash/wiki) (WIP)
-### Learning
-- [My notes, scripts and experience of learning NextFlow](https://github.com/pjhesbest/learning-nextflow) (WIP)
+
 ### General audience articles
 - [Deep sea sponges yield new bacterial strains that may battle pathogens](https://www.the-microbiologist.com/news/deep-sea-sponges-yield-new-bacterial-strains-that-may-battle-pathogens/720.article)
 - [#FEMSmicroBlog: Searching for antibiotics in the deep sea](https://fems-microbiology.org/femsmicroblog-searching-for-antibiotics-in-the-deep-sea/)
 - [Rule-breaking anoxic bacteria infected with viruses](https://www.the-microbiologist.com/news/rule-breaking-anoxic-bacteria-infected-with-viruses/1216.article)
+
 ********
+
 ## Publications :page_facing_up:
+
 ### Pre-prints
 - [Evolutionary and biological mechanisms underpinning chitin degradation in aquatic fungi](https://doi.org/10.1101/2024.02.10.579206)
+  
 ### 2024
 - [Dominance of recombinant DWV genomes with changing viral landscapes as revealed in national US honey bee and varroa mite survey](https://www.nature.com/articles/s42003-024-07333-9)
 - [Host-specific viral predation network on coral reefs](http://dx.doi.org/10.1093/ismejo/wrae240)
@@ -45,11 +49,14 @@ I'm a microbiologist/bioinformatician with experience in microbial ecology and e
 - [A semi-automated and high-throughput approach for the detection of honey bee viruses in bee samples](https://doi.org/10.1371/journal.pone.0297623)
 - [Globally distributed bacteriophage genomes reveal mechanisms of tripartite phage-bacteria-coral interactions](https://doi.org/10.1101/2024.03.11.584349)
 - [Inducible prophages modulate symbiotic phenotypes in Sargassum-associated bacteria](https://doi.org/10.21203/rs.3.rs-3867801/v1)
+  
 ### 2023
 - [Viruses of sulfur oxidizing phototrophs encode genes for pigment, carbon, and sulfur metabolisms](https://doi.org/10.1038/s43247-023-00796-4)
 - [Whole genomes of deep-sea sponge-associated bacteria exhibit high novel natural product potential](https://doi.org/10.1093/femsmc/xtad005)
+  
 ### 2020
 - [Impact of growth media and pressure on the diversity and antimicrobial activity of isolates from two species of hexactinellid sponge](https://doi.org/10.1099/mic.0.001123)
+  
 ### 2019
 - [*Galleria mellonella* larvae exhibit a weight-dependent lethal median dose when infected with methicillin-resistant *Staphylococcus aureus*](https://doi.org/10.1093/femspd/ftab003)
 
